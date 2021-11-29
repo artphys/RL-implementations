@@ -12,11 +12,3 @@ Classic RL:
     PPO
     TRPO
     SAC
-
-Memory:
-    RNN
-    LSTM
-    
-Model Based:
-    PlaNet
-    Dreamer
